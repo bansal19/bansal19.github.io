@@ -1,3 +1,2 @@
 # bansal19.github.io
-Front facing website for myself.
-Currently in progress.
+Used to be the front facing website for myself. Now, archived. My new website is viewable at bansal19.github.io
