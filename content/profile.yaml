@@ -1,0 +1,27 @@
+- profile: Shardul Bansal
+  initials: SB
+  name: Shardul Bansal
+  profession: Software Developer
+  image: images/profile.jpg
+  location: Vancouver, CA
+  relocation: false
+  company: Amazon Web Services
+  for_hire: false
+  focus: Personal Growth
+  focus_url: https://github.com/bansal19
+  about: |
+    # Leave for now
+
+  skills:
+    - Python
+    - Java
+    - Wait what
+  tools:
+    - PyCharm (for some things)
+    - VSCode
+    - Spotify :)
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

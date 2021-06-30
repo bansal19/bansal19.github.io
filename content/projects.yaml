@@ -1,0 +1,18 @@
+- name: Training using Bittensor
+  url: https://github.com/bansal19/Deep_Learning_Bittensor
+  description: # Come back to thisBenchmarked a model trained on 
+  status: live
+  tags:
+    - Python
+    - Deep Learning
+  icon: github
+
+- name: Example 2
+  url: https://github.com
+  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+  icon: website
+  image: images/project.jpg
